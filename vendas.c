@@ -56,7 +56,8 @@ int main() {
         { "Refrigerante", 6.0, 10 },
         { "Chocolate", 4.0, 20 },
         { "Salgadinho", 5.0, 10 },
-        { "Suco", 6.0, 8 }
+        { "Suco", 6.0, 8 },
+        { "Biscoitos", 4.75, 20 }
     };
     const int PRODUTOS_QTD = sizeof(itens) / sizeof(Produto);
 
